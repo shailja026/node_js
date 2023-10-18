@@ -1,0 +1,7 @@
+routersVisites 0routersVisites 0Routers_Visites: /data |Method: GET
+Routers_Visites: /about |Method: GET
+Routers_Visites: / |Method: GET
+Routers_Visites: /about |Method: GET
+Routers_Visites: /data |Method: GET
+Routers_Visites: /contacts |Method: GET
+Routers_Visites: /contact |Method: GET
